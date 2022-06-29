@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\beaute_india"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "beaute_india"
+	}
+}
